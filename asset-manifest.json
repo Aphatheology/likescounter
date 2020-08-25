@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/likescounter/static/css/main.ff10a8da.chunk.css",
+    "main.js": "/likescounter/static/js/main.1b45d1b4.chunk.js",
+    "main.js.map": "/likescounter/static/js/main.1b45d1b4.chunk.js.map",
+    "runtime-main.js": "/likescounter/static/js/runtime-main.49e89978.js",
+    "runtime-main.js.map": "/likescounter/static/js/runtime-main.49e89978.js.map",
+    "static/css/2.11829350.chunk.css": "/likescounter/static/css/2.11829350.chunk.css",
+    "static/js/2.493258e2.chunk.js": "/likescounter/static/js/2.493258e2.chunk.js",
+    "static/js/2.493258e2.chunk.js.map": "/likescounter/static/js/2.493258e2.chunk.js.map",
+    "index.html": "/likescounter/index.html",
+    "precache-manifest.a9233ed8fa09b871e6a4ab3314cb462e.js": "/likescounter/precache-manifest.a9233ed8fa09b871e6a4ab3314cb462e.js",
+    "service-worker.js": "/likescounter/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/likescounter/static/css/2.11829350.chunk.css.map",
+    "static/css/main.ff10a8da.chunk.css.map": "/likescounter/static/css/main.ff10a8da.chunk.css.map",
+    "static/js/2.493258e2.chunk.js.LICENSE.txt": "/likescounter/static/js/2.493258e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49e89978.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.493258e2.chunk.js",
+    "static/css/main.ff10a8da.chunk.css",
+    "static/js/main.1b45d1b4.chunk.js"
+  ]
+}
