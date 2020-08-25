@@ -102,8 +102,8 @@ class Learnstate extends Component {
                             <div className="card">
                                 <img src="https://res.cloudinary.com/aphatheology/image/upload/v1591695643/homepage_hero_hmpqiv.png" className="card-img-top" alt="..." style={{width: "100%"}} />
                                 <div className="card-body">
-                                    <h5 className="card-title">Card title</h5>
-                                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <h5 className="card-title">Woman, Home and Bed</h5>
+                                    <p className="card-text">A great capture of a Woman having a nice time on her bed.</p>
                                     <button className="btn btn-primary" onClick={this.increaseLike4}><i class="far fa-thumbs-up fa-2x"></i></button> 
                                     <span>{this.state.img4Like} Likes</span>
                                 </div>
@@ -114,8 +114,8 @@ class Learnstate extends Component {
                             <div className="card">
                                 <img src="https://res.cloudinary.com/aphatheology/image/upload/v1597913690/cat_w1lmes.jpg" className="card-img-top" alt="..." />
                                 <div className="card-body">
-                                    <h5 className="card-title">Card title</h5>
-                                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <h5 className="card-title">Cat, Table and Flower</h5>
+                                    <p className="card-text">Cat are always calm in most Pictures, they exhibit the opposite side of them when the Camera is not on them. A nice table!</p>
                                     <button className="btn btn-primary" onClick={this.increaseLike5}><i class="far fa-thumbs-up fa-2x"></i></button> 
                                     <span>{this.state.img5Like} Likes</span>
                                 </div>
@@ -126,8 +126,8 @@ class Learnstate extends Component {
                             <div className="card">
                                 <img src="https://res.cloudinary.com/aphatheology/image/upload/v1587212852/IMG_20200418_131052_0_2_hxee9k.jpg" className="card-img-top" alt="..." />
                                 <div className="card-body">
-                                    <h5 className="card-title">Card title</h5>
-                                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <h5 className="card-title">Mustapha Abdulkareem | Aphatheology</h5>
+                                    <p className="card-text">The brain behind this amazing work. Thanks for stopping by, have a nice time!</p>
                                     <button className="btn btn-primary" onClick={this.increaseLike6}><i class="far fa-thumbs-up fa-2x"></i></button> 
                                     <span>{this.state.img6Like} Likes</span>
                                 </div>
